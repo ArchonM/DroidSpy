@@ -1,0 +1,2 @@
+cache-misses,cache-references,L1-dcache-load-misses,L1-dcache-loads,L1-dcache-store-misses,L1-dcache-stores,label
+31956,5960001,101123,3926993,6563,0,np

@@ -1,0 +1,44 @@
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+     12,218  cache-misses             # 8.833 M/sec    (15%)
+  1,950,142  cache-references         # 536.575 M/sec  (38%)
+     50,678  L1-dcache-load-misses    # 7.639 M/sec    (70%)
+  3,298,333  L1-dcache-loads          # 403.533 M/sec  (86%)
+     34,391  L1-dcache-store-misses   # 5.801 M/sec    (62%)
+  1,268,701  L1-dcache-stores         # 432.205 M/sec  (31%)
+
+Total test time: 0.010882 seconds.
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+     49,006  cache-misses             # 9.674 M/sec    (38%)
+  2,389,114  cache-references         # 553.804 M/sec  (32%)
+     50,678  L1-dcache-load-misses    # 7.639 M/sec    (100%)
+  3,317,512  L1-dcache-loads          # 402.125 M/sec  (86%)
+     55,881  L1-dcache-store-misses   # 6.208 M/sec    (71%)
+  2,317,156  L1-dcache-stores         # 346.796 M/sec  (50%)
+
+Total test time: 0.021218 seconds.
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+     59,015  cache-misses             # 10.612 M/sec   (40%)
+  2,664,224  cache-references         # 553.959 M/sec  (35%)
+     50,678  L1-dcache-load-misses    # 7.639 M/sec    (100%)
+  3,317,512  L1-dcache-loads          # 402.125 M/sec  (86%)
+     55,881  L1-dcache-store-misses   # 6.208 M/sec    (71%)
+  2,592,266  L1-dcache-stores         # 361.189 M/sec  (52%)
+
+Total test time: 0.030739 seconds.
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+     63,423  cache-misses             # 10.762 M/sec   (42%)
+  2,784,407  cache-references         # 541.565 M/sec  (36%)
+     50,678  L1-dcache-load-misses    # 7.639 M/sec    (100%)
+  3,317,512  L1-dcache-loads          # 402.125 M/sec  (86%)
+     55,881  L1-dcache-store-misses   # 6.208 M/sec    (71%)
+  2,712,449  L1-dcache-stores         # 361.226 M/sec  (53%)
+
+Total test time: 0.041278 seconds.

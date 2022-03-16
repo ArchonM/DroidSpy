@@ -1,0 +1,11 @@
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+      4,297  cache-misses             # 0.094891% miss rate  (100%)
+  4,528,363  cache-references         # 1.352 G/sec          (100%)
+    100,195  L1-dcache-load-misses    # 17.860 M/sec         (100%)
+  5,967,415  L1-dcache-loads          # 1.135 G/sec          (94%)
+     49,279  L1-dcache-store-misses   # 21.800 M/sec         (40%)
+          0  L1-dcache-stores         #                      (100%)
+
+Total test time: 0.010988 seconds.

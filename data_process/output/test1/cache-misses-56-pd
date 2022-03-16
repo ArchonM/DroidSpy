@@ -1,0 +1,12 @@
+Performance counter statistics:
+
+#  count  event_name     # count / runtime,  runtime / enabled_time
+  88,681  cache-misses   # 17.176 M/sec  (100%)
+
+Total test time: 0.011310 seconds.
+Performance counter statistics:
+
+#   count  event_name     # count / runtime,  runtime / enabled_time
+  102,351  cache-misses   # 18.262 M/sec  (100%)
+
+Total test time: 0.020863 seconds.

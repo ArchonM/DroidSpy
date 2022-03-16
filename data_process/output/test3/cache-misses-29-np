@@ -1,0 +1,33 @@
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+      9,126  cache-misses             # 0.178334% miss rate  (100%)
+  5,117,365  cache-references         # 1.354 G/sec          (100%)
+     87,949  L1-dcache-load-misses    # 19.337 M/sec         (100%)
+  5,109,717  L1-dcache-loads          # 1.356 G/sec          (83%)
+     27,105  L1-dcache-store-misses   # 35.299 M/sec         (17%)
+          0  L1-dcache-stores         #                      (100%)
+
+Total test time: 0.010364 seconds.
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+      9,126  cache-misses             # 0.178334% miss rate  (100%)
+  5,117,365  cache-references         # 1.354 G/sec          (100%)
+    105,061  L1-dcache-load-misses    # 21.403 M/sec         (100%)
+  5,569,129  L1-dcache-loads          # 1.349 G/sec          (84%)
+     44,217  L1-dcache-store-misses   # 39.195 M/sec         (23%)
+          0  L1-dcache-stores         #                      (100%)
+
+Total test time: 0.020907 seconds.
+Performance counter statistics:
+
+#     count  event_name               # count / runtime,  runtime / enabled_time
+      9,126  cache-misses             # 0.178334% miss rate  (100%)
+  5,117,365  cache-references         # 1.354 G/sec          (100%)
+    110,492  L1-dcache-load-misses    # 21.948 M/sec         (100%)
+  5,721,764  L1-dcache-loads          # 1.345 G/sec          (85%)
+     49,648  L1-dcache-store-misses   # 39.595 M/sec         (25%)
+          0  L1-dcache-stores         #                      (100%)
+
+Total test time: 0.031359 seconds.
